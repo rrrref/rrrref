@@ -1,6 +1,15 @@
-## Hi there 👋
+#About Me
+Hi there 👋
+-KU CSE 25
 
+#PS
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=austin0817)](https://solved.ac/austin0817/)
+
+
+
+
+
+
 
 <!--
 **rrrref/rrrref** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
