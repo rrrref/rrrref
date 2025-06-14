@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bllacovvqso)](https://solved.ac/austin0817/)
+
 <!--
 **rrrref/rrrref** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
