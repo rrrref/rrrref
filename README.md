@@ -1,8 +1,8 @@
-#About Me
-Hi there 👋
--KU CSE 25
+# About Me
+- CBSH 35
+- KU CSE 25
 
-#PS
+# PS
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=austin0817)](https://solved.ac/austin0817/)
 
 
