@@ -30,8 +30,9 @@ I am deeply interested in **Computer Vision** and **Robotics**.
 ---
 
 ### 🧐 Current Interests
-- **Generative AI:** Diffusion Models
-- **Robotics:** Reinforcement Learning (RL)
+- Diffusion Models
+- Reinforcement Learning
+- Robotics
 
 <br/>
 
