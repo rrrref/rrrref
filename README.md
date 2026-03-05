@@ -31,8 +31,7 @@ I am deeply interested in **Computer Vision** and **Robotics**.
 
 ### 🧐 Current Interests
 - Diffusion Models
-- Reinforcement Learning
-- Robotics
+- Flow Matching
 
 <br/>
 
