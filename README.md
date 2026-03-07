@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 
 # Hi, I'm Seohyeon Chang 👋
 
-I am an undergraduate student majoring in **CSE** at **Korea University**.  
-I am deeply interested in **Computer Vision** and **Robotics**.
+I am an undergraduate student majoring in **CSE** at **Korea University**.
+
+I am currently working at **Generative Intelligence Lab** advised by Prof. Sungwoo Park
 <br/>
 
 [![Korea Univ](https://img.shields.io/badge/Korea%20Univ.-CSE-860038?style=for-the-badge&logo=koreauniversity&logoColor=white)](https://cs.korea.edu/en_cs/index.do)
