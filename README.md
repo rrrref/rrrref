@@ -65,7 +65,7 @@ I am currently working at **Generative Intelligence Lab** advised by Prof. Sungw
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white)
 ### 💼 Contact
-[![Korea Univ Email](https://img.shields.io/badge/Korea_Univ.-아이디%40korea.ac.kr-860038?style=flat-square&logo=koreauniversity&logoColor=white)](mailto:seohyeon@korea.ac.kr)
+[![Korea Univ Email](https://img.shields.io/badge/Korea_Univ.-seohyeon7180%40korea.ac.kr-860038?style=flat-square&logo=koreauniversity&logoColor=white)](mailto:seohyeon@korea.ac.kr)
 [![Gmail](https://img.shields.io/badge/Gmail-seohyeon7180%40gmail.com-d14836?style=flat-square&logo=gmail&logoColor=white)](mailto:seohyeon7180@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Seohyeon%20Chang-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seohyeon7180)
 [![X](https://img.shields.io/badge/X-%40seohyeon7180-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/seohyeon7180)
