@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 # Hi, I'm Seohyeon Chang 👋
 
 I am an undergraduate student majoring in **CSE** at **Korea University**.
+
 I am deeply interested in **Computer Vision** and **Robotics**.
 <br/>
 
