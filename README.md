@@ -31,8 +31,8 @@ I am deeply interested in **Geometric Deep Learning** and **Robotics**.
 ---
 
 ### 🧐 Current Interests
-- Diffusion Models
-- Flow Matching
+- Geometric Deep Learning
+- Manifold Learning
 
 <br/>
 
