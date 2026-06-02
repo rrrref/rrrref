@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 I am an undergraduate student majoring in **CSE** at **Korea University**.
 
-I am deeply interested in **Geometric Deep Learning** and **Robotics**.
+I am deeply interested in **Robot Learning and Control**.
 <br/>
 
 [![Korea Univ](https://img.shields.io/badge/Korea%20Univ.-CSE-860038?style=for-the-badge&logo=koreauniversity&logoColor=white)](https://cs.korea.edu/en_cs/index.do)
@@ -31,8 +31,9 @@ I am deeply interested in **Geometric Deep Learning** and **Robotics**.
 ---
 
 ### 🧐 Current Interests
+- Robot Learning and Control
 - Geometric Deep Learning
-- Manifold Learning
+- Optimization on Manifolds
 
 <br/>
 
